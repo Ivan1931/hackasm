@@ -1,0 +1,5 @@
+Usage:
+  hackasm assemble <input> <output>
+  hackasm analyse <input>
+Options:
+  -b, --binary    Output assembly result as a raw binary as opposed to a string of 1s and 0s
